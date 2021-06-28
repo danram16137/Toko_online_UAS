@@ -1,0 +1,36 @@
+BUKU PANDUAN
+
+CARA MENGGUNAKAN
+- composer install
+- php artisan migrate
+- php artisan db:seed
+- php artisan serve
+
+JIKA GAMBAR PRODUK TIDAK MUNCUL MAKA HAPUS FILE "STORAGE" DI 
+FOLDER "PUBLIC/STORAGE"
+LALU KETIKKAN DI TERMINAL "php artisan storage:link"
+
+JIKA ADA KENDALA HUBUNGI
+WHATSAPP : 087851820884 (Mochammad Ramadhan)
+
+Terima Kasih ^_^
+
+ADMIN
+  username : admin@gmail.com
+  password : admin
+
+CUSTOMER 1
+  username : customer1@gmail.com
+  password : customer1
+
+CUSTOMER 2
+  username : customer2@gmail.com
+  password : customer2
+
+CUSTOMER 3
+  username : customer3@gmail.com
+  password : customer3
+
+CUSTOMER 1
+  username : danram16137@gmail.com
+  password : danram12345678
